@@ -1,4 +1,4 @@
-# 🩺 Diabetes Public Health Analysis Using SQL
+# 🩺 Analyzing Diabetes Risk Factors in Public Health Data Using SQL
 
 This project simulates a public health report using SQL queries on a real-world diabetes dataset from [Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset).
 
@@ -17,8 +17,8 @@ To extract meaningful health insights from population-level diabetes data using 
 
 ## 💡 Health Insights
 - **Higher BMI and HbA1c** levels are linked to diabetes.
-- **Smokers and older adults** show significantly higher diabetes rates..
-- **Males** are more likely to have higher diabates rate
+- **Smokers and older adults** show significantly higher diabetes rates.
+- Higher diabetes rates observed among **males**
 - Individuals with **heart disease or hypertension** are more likely to have diabetes.
 
 ## 📂 Files
