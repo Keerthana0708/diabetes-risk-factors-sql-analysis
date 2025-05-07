@@ -16,9 +16,9 @@ To extract meaningful health insights from population-level diabetes data using 
 - Diabetes prevalence in individuals with heart disease and hypertension
 
 ## 💡 Health Insights
+- Higher diabetes rates observed among **males**
 - **Higher BMI and HbA1c** levels are linked to diabetes.
 - **Smokers and older adults** show significantly higher diabetes rates.
-- Higher diabetes rates observed among **males**
 - Individuals with **heart disease or hypertension** are more likely to have diabetes.
 
 ## 📂 Files
