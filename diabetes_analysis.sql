@@ -6,7 +6,7 @@ group by gender
 order by diabetes_percenage desc;
 
 
-#percentage of individuals in the dataset are diabetic#
+#Percentage of Diabetic Individuals in the Dataset#
 select count(*) as total_patients, sum(diabetes) as diabetes_count,
 round(sum(diabetes)*100/(select count(*) from diabetes_prediction),2) as diabetic_percentage
 from diabetes_prediction;
@@ -34,7 +34,7 @@ end as diabetes_status
 group by diabetes;
 
 
-#age group has the highest percentage of diabetic individuals#
+# Diabetes Prevalence by Age Group#
 SELECT 
     age_group,
     COUNT(*) AS total,
