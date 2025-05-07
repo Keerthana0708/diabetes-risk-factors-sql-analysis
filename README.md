@@ -19,7 +19,7 @@ To extract meaningful health insights from population-level diabetes data using 
 - Higher diabetes rates observed among **males**
 - **Higher BMI and HbA1c** levels are linked to diabetes.
 - **Smokers and older adults** show significantly higher diabetes rates.
-- Individuals with **heart disease or hypertension** are more likely to have diabetes.
+- Individuals with **heart disease or hypertension** are more likely to be diagnosed with diabetes.
 
 ## 📂 Files
 - `diabetes_analysis.sql`: SQL queries used
